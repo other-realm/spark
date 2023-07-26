@@ -1,0 +1,24 @@
+.answer, div[data-mime-type="text/markdown"] {
+	font-family: STIXMathJax_Normal, 'Times New Roman', Times, serif;
+	font-size: 18px;
+	line-height: 1em;
+}
+*{
+	font-family: STIXMathJax_Normal, 'Times New Roman', Times, serif;
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3,h4{
+	font-family: 'Times New Roman', Times, serif;
+	line-height: normal;
+}
+.CodeMirror-lines,.CodeMirror {
+	font-family:monospace;
+}
+p{
+	font-family: 'Times New Roman', Times, serif;
+	line-height: normal;
+}
+/* img{
+	width: 35%;
+} */
