@@ -1,27 +1,27 @@
 {
 	"editor.wordWrap": "on",
 	"python.autoComplete.extraPaths": [
-		"C:\\Users\\Someone\\micromamba\\envs\\sparkignite",
-		"C:\\Users\\Someone\\micromamba\\pkgs"
+		"~/micromamba/envs/sparkignite",
+		"~/micromamba/envs/pkgs"
 	],
 	"python.analysis.extraPaths": [
 		"c:\\Users\\Someone\\.vscode\\extensions\\roipoussiere.cadquery-0.1.3\\stubs",
-		"C:\\Users\\Someone\\micromamba\\envs\\sparkignite",
-		"C:\\Users\\Someone\\micromamba\\pkgs"
+		"~/micromamba/envs/sparkignite",
+		"~/micromamba/envs/pkgs"
 	],
-	"python.defaultInterpreterPath": "C:\\Users\\Someone\\micromamba\\envs\\sparkignite\\python.exe",
+	"python.defaultInterpreterPath": "~/micromamba/envs/sparkignite\\python.exe",
 	"python.linting.pycodestyleEnabled": false,
 	"python.linting.enabled": false,
 	"python.analysis.autoImportCompletions": true,
 	"python.linting.pylintArgs": [
 		"--init-hook",
-		"import sys; sys.path.append('C:\\Users\\Someone\\micromamba\\envs\\sparkignite')",
+		"import sys; sys.path.append('~/micromamba/envs/sparkignite')",
 		"--init-hook",
-		"import sys; sys.path.append('C:\\Users\\Someone\\micromamba\\pkgs')"
+		"import sys; sys.path.append('~/micromamba/envs/pkgs')"
 	],
 	"python.terminal.activateEnvironment": true,
-	"matlab-formatter.pythonPath": "C:\\Users\\Someone\\micromamba\\envs\\sparkignite\\",
-	"matlab-interactive-terminal.pythonPath": "C:\\Users\\Someone\\micromamba\\envs\\sparkignite\\",
+	"matlab-formatter.pythonPath": "~/micromamba/envs/sparkignite\\",
+	"matlab-interactive-terminal.pythonPath": "~/micromamba/envs/sparkignite\\",
 	"cmake.configureOnOpen": true,
 	"files.autoSave": "afterDelay",
 	"python.analysis.typeCheckingMode": "off",
