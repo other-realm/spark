@@ -2,7 +2,7 @@
 This is the repository where you can download everything we need for the UMass Amherst Engineering Class "From Spark to Ignition, Establishing a Plan for Entrepreneurial Success"  
 It also has a bunch of things I have found useful in my educational journey.  
 
-## List of things you will find here:  
+## List of things you will find here so far:  
 -  Power Point Presentations for most of the classes  
 -  Example mind map as an image and "mind map" format for use with Docear, although outdated, still the best mind map software out there: https://docear.org/  
 -  Template one page Business Plan  
