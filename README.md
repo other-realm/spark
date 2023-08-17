@@ -42,4 +42,4 @@ There is a file called `pip.sh`.  Open that and copy its contents and past it in
 
 -  Now you need to make some changes to the VS Code `settings.json` file in the `.vscode` folder so that the application knows where to find python.
 
-####You should be good to go, although you may need to restart VS Code to have everything be up to date.  Let me know if you have trouble  
+#### You should be good to go, although you may need to restart VS Code to have everything be up to date.  Let me know if you have trouble  
