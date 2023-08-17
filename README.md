@@ -1,4 +1,4 @@
-# From Spark to Ignition: Establishing a Plan for Entrepreneurial Success
+# From Spark to Ignition: Establishing a Plan for Entrepreneurial Success🚀
 This is the repository where you can download everything we need for the UMass Amherst Engineering Class "From Spark to Ignition, Establishing a Plan for Entrepreneurial Success"  
 It also has a bunch of things I have found useful in my educational journey.  
 
