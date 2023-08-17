@@ -10,7 +10,7 @@ It also has a bunch of things I have found useful in my educational journey.
 -  Instructions on how to run a ipython notebook (sparkignite.ipynb)  
 
 ## Instructions on how to set up a good developer environment 
-(you may or may not be using this in this class, it is just very useful to have handy - it is basically a really powerful calculator)  
+##### (you may or may not be using this in this class, it is just very useful to have handy - it is basically a really powerful calculator)  
 ### Setting things up  
 Install Visual Studio Code: https://code.visualstudio.com/#alt-downloads  
 Install git: https://git-scm.com/download/win  
@@ -42,4 +42,4 @@ There is a file called `pip.sh`.  Open that and copy its contents and past it in
 
 -  Now you need to make some changes to the VS Code `settings.json` file in the `.vscode` folder so that the application knows where to find python.
 
-####You should be good to go, although you may need to restart VS Code to have everything be up to date.  Let me know if you have trouble  
+#### You should be good to go, although you may need to restart VS Code to have everything be up to date.  Let me know if you have trouble  
