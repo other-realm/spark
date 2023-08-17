@@ -1,7 +1,7 @@
 <map version="docear 1.1" project="144CC68822F6UB67EX9CD56T527DDL7H8ZDN" project_last_home="file:/E:/Documents/Biz/mindmap/" dcr_id="1689346221901_cb42cueo6jse3r0of09l944mh">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="Example Business Ideas" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1690331062010">
-<hook NAME="AutomaticEdgeColor" COUNTER="7"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="8"/>
 <hook NAME="MapStyle">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
@@ -58,48 +58,6 @@
 </hook>
 <node TEXT="For profit ideas" POSITION="right" ID="ID_1937585169" CREATED="1689457844004" MODIFIED="1689457859391">
 <edge COLOR="#00ffff"/>
-<node TEXT="Flexible self reproducing robots" ID="ID_1232671594" CREATED="1689354386303" MODIFIED="1690341352714" MOVED="1689457844026"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i>Really interesting; really difficult and time consuming without direct tangible goals</i>
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="Possible methods" ID="ID_1524247375" CREATED="1689445218144" MODIFIED="1689445245035">
-<node TEXT="A system that uses electrically generated magnets and iron ferrite partials suspended in a flexible media" ID="ID_1546857924" CREATED="1689442503446" MODIFIED="1690324694967" MOVED="1689445218157"/>
-<node TEXT="Localized thermal expansion/contraction" ID="ID_508143822" CREATED="1689445250427" MODIFIED="1689445368365"/>
-<node TEXT="Water pressure differences" ID="ID_810198225" CREATED="1689445375005" MODIFIED="1689445406346"/>
-<node TEXT="Use dielectric elastomer transducers" ID="ID_977901405" CREATED="1690338051761" MODIFIED="1690338055055"/>
-</node>
-</node>
-<node TEXT="Moon Power" ID="ID_64711797" CREATED="1689354447761" MODIFIED="1690341554338" MOVED="1689457910571"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i>Pretty interesting, definitely direct reasons for doing it; requires a lot of money</i>
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="The idea is to use tidal changes in water depth (more than just waves) to lift large objects attached to a geared generator." ID="ID_1266502358" CREATED="1689452609877" MODIFIED="1689458652190"/>
-<node TEXT="Back of the envelop calculation: ((500**3*9807N*10m)/(6h*60min*60s))*4=2270138888.88889W*h/day" ID="ID_1689064838" CREATED="1689450932972" MODIFIED="1689453319795">
-<hook URI="file:/C:/Develop/SparkIgnite/img/tideMath2023-07-15%20155626.png" SIZE="0.6451613" NAME="ExternalObject"/>
-</node>
-<node TEXT="If we put it in the Bay of Fundy in Canada with 2 tides of ~16m, we could get up to: 3632.222MW*h/day" ID="ID_827351076" CREATED="1689452446360" MODIFIED="1690331044333"/>
-<node TEXT="OR: Use dielectric elastomer transducers" ID="ID_165166549" CREATED="1690330895323" MODIFIED="1690330944588"/>
-</node>
 <node TEXT="Custom shoes" ID="ID_1428917651" CREATED="1689459498740" MODIFIED="1689459513633">
 <node TEXT="According to the latest census data, 18% of American adults have trouble walking or going up steps for some reason or another[i]. .... Until recently, custom shoes were very expensive and not widely available because each one needed to be manually fabricated.  However, in the last decade or so, computer controlled 3D printing has made possible the prospect of automating custom designs and the forecast for 3D-printed footwear puts the revenue potential at around $5.9 billion by the end of the decade[iii]. ...See attachment for full text" ID="ID_1594933062" CREATED="1689459631812" MODIFIED="1689459861819"><richcontent TYPE="NOTE">
 
@@ -205,7 +163,7 @@
 <node TEXT="Nonprofit/community" POSITION="right" ID="ID_1009148495" CREATED="1689457935220" MODIFIED="1689457961733">
 <edge COLOR="#ffff00"/>
 <node TEXT="Nonprofit dating app" ID="ID_1543857513" CREATED="1689354457160" MODIFIED="1689457935235" MOVED="1689457935239">
-<node TEXT="There are no effective dating apps or websites because the existing commercial ones only find other people who use the app - if we can make a non-profit dating organization that is made up of, and run by, exclusively single people, then use big data and machine learning to not only connect other active users but also connect other potential candidates who have no connection to the organization, we can attempt to overcome the lonesomeness that millions of people feel (by one study, over 60% of young people are lonely[1]).  Money can be rased by having a network of independent contactor matchmakers whose revenue is shared with the organization.  To begin to overcome the inequalities that low income people feel, we could make it so that any matchmaker who works with a paying customer also has a consultation with the member who has been without a match for the longest timeframe." ID="ID_444739046" CREATED="1689454355970" MODIFIED="1690411195163"><richcontent TYPE="DETAILS">
+<node TEXT="There are no effective dating apps or websites because the existing commercial ones only find other people who use the app - if we can make a non-profit dating organization that is made up of, and run by, exclusively single people, then use big data and machine learning to not only connect other active users but also connect other potential candidates who have no connection to the organization, we can attempt to overcome the lonesomeness that millions of people feel (by one study, over 60% of young people are lonely[1]).  Money can be rased by having a network of independent contactor matchmakers whose revenue is shared with the organization.  To begin to overcome the inequalities that low income people feel, we could make it so that any matchmaker who works with a paying customer also has a consultation with the member who has been without a match for the longest timeframe." ID="ID_444739046" CREATED="1689454355970" MODIFIED="1690658055678"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -224,9 +182,42 @@
 </node>
 <node TEXT="Scientific Research" POSITION="right" ID="ID_1813374269" CREATED="1689457987814" MODIFIED="1689458020005">
 <edge COLOR="#7c0000"/>
-<node TEXT="Quantum entangled Radar/Maser neural imaging of two or more people simultaneously as a possible means of non-pseudo telepathy and to investigate similarities and differences between people&apos;s brains, among other things" ID="ID_1382274689" CREATED="1689354573354" MODIFIED="1690418845275" MOVED="1689457987840"/>
-<node TEXT="Brain on a dish experiments with exogenous thought" ID="ID_926892785" CREATED="1689458039731" MODIFIED="1690418942239">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="14" FONT_FAMILY="Times New Roman" DESTINATION="ID_1382274689" STARTINCLINATION="295;0;" ENDINCLINATION="324;0;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
+<node TEXT="Flexible self reproducing robots" ID="ID_1232671594" CREATED="1689354386303" MODIFIED="1692282444270" MOVED="1692282444276"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Possible methods" ID="ID_1524247375" CREATED="1689445218144" MODIFIED="1689445245035">
+<node TEXT="A system that uses electrically generated magnets and iron ferrite partials suspended in a flexible media" ID="ID_1546857924" CREATED="1689442503446" MODIFIED="1690324694967" MOVED="1689445218157"/>
+<node TEXT="Localized thermal expansion/contraction" ID="ID_508143822" CREATED="1689445250427" MODIFIED="1689445368365"/>
+<node TEXT="Water pressure differences" ID="ID_810198225" CREATED="1689445375005" MODIFIED="1689445406346"/>
+<node TEXT="Use dielectric elastomer transducers" ID="ID_977901405" CREATED="1690338051761" MODIFIED="1690338055055"/>
+</node>
+</node>
+<node TEXT="Brain on a dish experiments with exogenous thought" ID="ID_926892785" CREATED="1689458039731" MODIFIED="1692237160345" MOVED="1692282740716"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Kagan, B. J. et al. In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron (2022) doi:10.1016/j.neuron.2022.09.001.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Base study on the principle of we think therefore I am|I think, therefore we are" ID="ID_1862500126" CREATED="1692282743432" MODIFIED="1692282954218"/>
 </node>
 </node>
 </node>

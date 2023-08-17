@@ -1,0 +1,1 @@
+pip install git+https://github.com/gumyr/build123d --user;pip install git+https://github.com/meadiode/cq_gears.git@main --user;pip install git+https://github.com/gumyr/cq_warehouse.git#egg=cq_warehouse --user;pip install ocp_tessellate webcolors cadquery-massembly ocp_vscode requests orjson urllib3 certifi

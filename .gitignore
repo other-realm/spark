@@ -192,10 +192,9 @@ Modules/
 mynewbook/
 
 #Filter out things that are auto generated
-*.stl
-*.step
-*.STEP
 .vscode/arduino.json
 .vscode/c_cpp_properties.json
 .vscode/extensions.json
 styles/.MATLABDriveTag
+*.wbk
+~*
