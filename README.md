@@ -35,7 +35,7 @@ This will activate Micro Mamba, a self-contained python environment
 `micromamba create -f environment.yml`  
 This will install most of the necessary libraries.  
 -  Then run  
-`micromamba activate car `  
+`micromamba activate sparkignite`  
 This will activate the newly created development environment  
 -  There are a few libraries that can't be installed using the `micromamba` command, for these, you need to use pip, the "Python Package Index"    
 There is a file called `pip.sh`.  Open that and copy its contents and past it into the terminal.  Once it is done, you should be all set!  
