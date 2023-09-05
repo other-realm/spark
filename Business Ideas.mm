@@ -1,7 +1,7 @@
 <map version="docear 1.1" project="144CC68822F6UB67EX9CD56T527DDL7H8ZDN" project_last_home="file:/E:/Documents/Biz/mindmap/" dcr_id="1689346221901_cb42cueo6jse3r0of09l944mh">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="Example Business Ideas" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1690331062010">
-<hook NAME="AutomaticEdgeColor" COUNTER="8"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="10"/>
 <hook NAME="MapStyle">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
@@ -56,9 +56,8 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="For profit ideas" POSITION="right" ID="ID_1937585169" CREATED="1689457844004" MODIFIED="1689457859391">
-<edge COLOR="#00ffff"/>
-<node TEXT="Custom shoes" ID="ID_1428917651" CREATED="1689459498740" MODIFIED="1689459513633">
+<node TEXT="Roughly 18% of US citizens have trouble walking or climbing stairs.  Access to existing medical solutions are limited in many areas and cost prohibitive to many people" POSITION="right" ID="ID_1428917651" CREATED="1689459498740" MODIFIED="1693771588642" MOVED="1693771428281">
+<edge COLOR="#007c00"/>
 <node TEXT="According to the latest census data, 18% of American adults have trouble walking or going up steps for some reason or another[i]. .... Until recently, custom shoes were very expensive and not widely available because each one needed to be manually fabricated.  However, in the last decade or so, computer controlled 3D printing has made possible the prospect of automating custom designs and the forecast for 3D-printed footwear puts the revenue potential at around $5.9 billion by the end of the decade[iii]. ...See attachment for full text" ID="ID_1594933062" CREATED="1689459631812" MODIFIED="1689459861819"><richcontent TYPE="NOTE">
 
 <html>
@@ -138,11 +137,11 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Create a prototype to validate the theory that you can achieve corrective gait by changing the insole angle and the outsole width without overly restricting ankle movement" ID="ID_653427204" CREATED="1689467700196" MODIFIED="1689467959742">
+<node TEXT="Create a prototype to validate the&#xa;theory that you can achieve corrective&#xa;gait by changing the insole angle and&#xa;the outsole width without overly&#xa;restricting ankle movement" ID="ID_653427204" CREATED="1689467700196" MODIFIED="1692283759768">
 <icon BUILTIN="button_ok"/>
 </node>
-<node TEXT="Create a complete, auto customizable, application that takes gait data as input and a stl printable file as output" ID="ID_1820792478" CREATED="1689467964541" MODIFIED="1690331093541"/>
-<node ID="ID_869115968" CREATED="1690324947562" MODIFIED="1690325479764"><richcontent TYPE="NODE">
+<node TEXT="Create a complete, auto customizable,&#xa;application that takes gait data as input&#xa;and a stl printable file as output" ID="ID_1820792478" CREATED="1689467964541" MODIFIED="1692283735266"/>
+<node ID="ID_869115968" CREATED="1690324947562" MODIFIED="1692283807383" HGAP="-470" VSHIFT="-26"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -159,10 +158,12 @@
 </node>
 </node>
 </node>
-</node>
-<node TEXT="Nonprofit/community" POSITION="right" ID="ID_1009148495" CREATED="1689457935220" MODIFIED="1689457961733">
+<node TEXT="Passing controversial laws and seeking radical social change that does not have any evidence of efficacy is risky" POSITION="right" ID="ID_1009148495" CREATED="1689457935220" MODIFIED="1693771545570">
 <edge COLOR="#ffff00"/>
-<node TEXT="Nonprofit dating app" ID="ID_1543857513" CREATED="1689354457160" MODIFIED="1689457935235" MOVED="1689457935239">
+<node TEXT="Test new forms of government and/or cultural practices using Live Action Role Playing (LARP)" ID="ID_723978299" CREATED="1690410941156" MODIFIED="1690410947295"/>
+</node>
+<node TEXT="Online dating is a corporate exploitation and largely ineffective:" POSITION="right" ID="ID_1543857513" CREATED="1689354457160" MODIFIED="1693771461351" MOVED="1693771461357">
+<edge COLOR="#7c007c"/>
 <node TEXT="There are no effective dating apps or websites because the existing commercial ones only find other people who use the app - if we can make a non-profit dating organization that is made up of, and run by, exclusively single people, then use big data and machine learning to not only connect other active users but also connect other potential candidates who have no connection to the organization, we can attempt to overcome the lonesomeness that millions of people feel (by one study, over 60% of young people are lonely[1]).  Money can be rased by having a network of independent contactor matchmakers whose revenue is shared with the organization.  To begin to overcome the inequalities that low income people feel, we could make it so that any matchmaker who works with a paying customer also has a consultation with the member who has been without a match for the longest timeframe." ID="ID_444739046" CREATED="1689454355970" MODIFIED="1690658055678"><richcontent TYPE="DETAILS">
 
 <html>
@@ -178,9 +179,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Test new forms of government and/or cultural practices using Live Action Role Playing (LARP)" ID="ID_723978299" CREATED="1690410941156" MODIFIED="1690410947295"/>
-</node>
-<node TEXT="Scientific Research" POSITION="right" ID="ID_1813374269" CREATED="1689457987814" MODIFIED="1689458020005">
+<node TEXT="Wouldn&apos;t it be nice if we were not constrained to just our physical body that is so prone to injury and can do only one thing at a time?" POSITION="right" ID="ID_1813374269" CREATED="1689457987814" MODIFIED="1693771656711">
 <edge COLOR="#7c0000"/>
 <node TEXT="Flexible self reproducing robots" ID="ID_1232671594" CREATED="1689354386303" MODIFIED="1692282444270" MOVED="1692282444276"><richcontent TYPE="DETAILS">
 
@@ -194,7 +193,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Possible methods" ID="ID_1524247375" CREATED="1689445218144" MODIFIED="1689445245035">
 <node TEXT="A system that uses electrically generated magnets and iron ferrite partials suspended in a flexible media" ID="ID_1546857924" CREATED="1689442503446" MODIFIED="1690324694967" MOVED="1689445218157"/>
@@ -203,7 +201,7 @@
 <node TEXT="Use dielectric elastomer transducers" ID="ID_977901405" CREATED="1690338051761" MODIFIED="1690338055055"/>
 </node>
 </node>
-<node TEXT="Brain on a dish experiments with exogenous thought" ID="ID_926892785" CREATED="1689458039731" MODIFIED="1692237160345" MOVED="1692282740716"><richcontent TYPE="DETAILS">
+<node TEXT="Brain on a dish experiments with exogenous thought and EEG" ID="ID_926892785" CREATED="1689458039731" MODIFIED="1693771673979" MOVED="1692282740716"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -215,9 +213,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-<node TEXT="Base study on the principle of we think therefore I am|I think, therefore we are" ID="ID_1862500126" CREATED="1692282743432" MODIFIED="1692282954218"/>
+<node TEXT="+" ID="ID_1862500126" CREATED="1692282743432" MODIFIED="1692283633312"/>
 </node>
 </node>
 </node>
