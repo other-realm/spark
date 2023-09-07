@@ -5,7 +5,7 @@
 		"~/micromamba/envs/pkgs"
 	],
 	"python.analysis.extraPaths": [
-		"c:\\Users\\Someone\\.vscode\\extensions\\roipoussiere.cadquery-0.1.3\\stubs",
+		"~\\.vscode\\extensions\\roipoussiere.cadquery-0.1.3\\stubs",
 		"~/micromamba/envs/sparkignite",
 		"~/micromamba/envs/pkgs"
 	],
@@ -21,7 +21,7 @@
 	],
 	"python.terminal.activateEnvironment": true,
 	"matlab-formatter.pythonPath": "~/micromamba/envs/sparkignite\\",
-	"matlab-interactive-terminal.pythonPath": "~/micromamba/envs/sparkignite\\",
+	"matlab-interactive-terminal.pythonPath": "~/micromamba/envs/sparkignite/",
 	"cmake.configureOnOpen": true,
 	"files.autoSave": "afterDelay",
 	"python.analysis.typeCheckingMode": "off",
