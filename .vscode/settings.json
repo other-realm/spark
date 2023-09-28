@@ -1,13 +1,18 @@
 {
 	"editor.wordWrap": "on",
 	"python.autoComplete.extraPaths": [
-		"~/micromamba/envs/sparkignite",
-		"~/micromamba/envs/pkgs"
+		"%UserProfile%\\.vscode\\extensions\\roipoussiere.cadquery-0.1.3\\stubs",
+		"%UserProfile%\\micromamba\\envs\\sparkignite\\lib\\site-packages\\bpy",
+		"%UserProfile%\\micromamba\\envs\\sparkignite",
+		"%UserProfile%\\micromamba\\pkgs",
+		"%UserProfile%\\micromamba\\envs\\sparkignite\\Lib\\site-packages"
 	],
 	"python.analysis.extraPaths": [
-		"~\\.vscode\\extensions\\roipoussiere.cadquery-0.1.3\\stubs",
-		"~/micromamba/envs/sparkignite",
-		"~/micromamba/envs/pkgs"
+		"%UserProfile%\\.vscode\\extensions\\roipoussiere.cadquery-0.1.3\\stubs",
+		"%UserProfile%\\micromamba\\envs\\sparkignite\\lib\\site-packages\\bpy",
+		"%UserProfile%\\micromamba\\envs\\sparkignite",
+		"%UserProfile%\\micromamba\\pkgs",
+		"%UserProfile%\\micromamba\\envs\\sparkignite\\Lib\\site-packages"
 	],
 	"python.defaultInterpreterPath": "~/micromamba/envs/sparkignite\\python.exe",
 	"python.linting.pycodestyleEnabled": false,
